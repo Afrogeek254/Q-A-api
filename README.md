@@ -1,2 +1,2 @@
 # Q-A-api
-programming langauage quastionaire api 
+programming langauage questionaire  api 
